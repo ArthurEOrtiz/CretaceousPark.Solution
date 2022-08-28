@@ -1,6 +1,6 @@
 using System;
 
-namespace CreataceousPark
+namespace CretaceousPark
 {
     public class WeatherForecast
     {
